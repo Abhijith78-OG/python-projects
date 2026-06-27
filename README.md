@@ -8,5 +8,7 @@ The purpose of this project is to make my work accessible to anyone who is curio
 Beyond the technical details, this project reflects my belief that programming is not just about solving problems but also about creativity and expression. Writing code is similar to writing an essay: it requires clarity, structure, and imagination. Each program tells a small story, whether it is a simple “Hello World” script or a more complex application. Together, these stories form a narrative of growth and discovery, showing how ideas evolve into working solutions.
 
 Ultimately, this website and repository serve as a showcase of my progress and passion for coding. It is an invitation to others to read, learn, and perhaps even contribute. By sharing my Python projects publicly, I hope to inspire collaboration, spark curiosity, and demonstrate that programming is a skill anyone can enjoy developing.
+
 PYTHON FOR STUDYING 
+
 So you know about 2 modes of python well we are gonna talk about that
