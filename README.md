@@ -15,5 +15,21 @@ So you know about 2 modes of python so i am not gonna tell that because you know
 
 Python can be run in two distinct modes: Interactive Mode and Script Mode. In interactive mode, also known as the REPL (Read–Eval–Print Loop), you type commands directly into the Python shell and see immediate results, which makes it ideal for quick testing, debugging, or learning the language step by step. Script mode, on the other hand, is used when you save your code in a .py file and run the entire program at once, allowing you to build larger, reusable projects with structured logic. Together, these two modes give Python flexibility: interactive mode acts like a live calculator for instant feedback, while script mode provides the foundation for complete applications and organized development.
 
+So i am gona give a small function you needed must know
 
+Print function 
+
+Print can be divided in to 4 code
+
+print()
+
+it leaves line in the program 
+
+print(n+n)
+
+it gives the output as the answer ie: print (4+5)                              o/p >>> 9
+
+print("")
+
+it gives answer in the two quotation marks ie: print"Welcome to the Github")         o/p >>> Welcome to Github 
 
