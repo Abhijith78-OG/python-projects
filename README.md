@@ -11,4 +11,9 @@ Ultimately, this website and repository serve as a showcase of my progress and p
 
 PYTHON FOR STUDYING 
 
-So you know about 2 modes of python well we are gonna talk about that
+So you know about 2 modes of python so i am not gonna tell that because you know but i am gonna give you some idea about it
+
+Python can be run in two distinct modes: Interactive Mode and Script Mode. In interactive mode, also known as the REPL (Read–Eval–Print Loop), you type commands directly into the Python shell and see immediate results, which makes it ideal for quick testing, debugging, or learning the language step by step. Script mode, on the other hand, is used when you save your code in a .py file and run the entire program at once, allowing you to build larger, reusable projects with structured logic. Together, these two modes give Python flexibility: interactive mode acts like a live calculator for instant feedback, while script mode provides the foundation for complete applications and organized development.
+
+
+
